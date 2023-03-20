@@ -1,0 +1,52 @@
+* {
+   margin: 0;
+   box-sizing: border-box;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+   height: 100vh;
+   background-image: url(https://i.ibb.co/McScN29/background-image.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   font-family: 'Spectral', serif;
+   text-align: center;
+   padding-top: 275px;
+}
+
+h1 {
+   font-family: 'Beth Ellen', cursive;
+   font-size: 64px;
+   font-weight: 400;
+   line-height: 120px;
+   color: #EBF1FB;
+}
+
+h1 span {
+   color: #5EEAD4;
+}
+
+p {
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 30px;
+   color: #EBF1FB;
+   margin-bottom: 72px;
+}
+
+a {
+   font-size: 24px;
+   font-weight: 600;
+   line-height: 24px;
+   color: #EBF1FB;
+   padding: 16px 32px;
+}
+
+#recipes {
+   background-color: #5EEAD4;
+   border-radius: 8px;
+   color: #0B0C0E;
+   text-decoration: none;
+}
